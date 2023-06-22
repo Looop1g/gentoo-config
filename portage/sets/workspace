@@ -1,0 +1,28 @@
+# Window Manager
+x11-wm/bspwm
+
+# Set Cursor
+x11-apps/xsetroot
+
+# Terminal
+x11-terms/alacritty
+
+# Editors
+app-editors/neovim
+
+#browser
+www-client/google-chrome
+
+# fcitx
+app-i18n/fcitx-meta
+
+# Misc
+app-misc/ranger
+x11-misc/picom
+x11-misc/sxhkd
+x11-misc/polybar
+x11-misc/rofi
+media-gfx/feh
+
+# net-proxy
+net-misc/proxychains
