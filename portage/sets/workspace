@@ -1,5 +1,6 @@
 # Window Manager
 x11-wm/bspwm
+x11-misc/i3lock
 
 # Set Cursor
 x11-apps/xsetroot
@@ -22,6 +23,7 @@ x11-misc/picom
 x11-misc/sxhkd
 x11-misc/polybar
 x11-misc/rofi
+app-misc/neofetch
 media-gfx/feh
 
 # net-proxy
