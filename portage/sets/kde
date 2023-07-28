@@ -1,0 +1,11 @@
+# KDE 桌面
+kde-plasma/plasma-meta
+
+# KDE 桌面文件管理器
+kde-apps/dolphin
+
+# KDE 桌面终端模拟器
+kde-apps/konsole
+
+# KDE PDF 浏览器
+kde-apps/okular

@@ -1,30 +1,11 @@
-# Window Manager
-x11-wm/bspwm
-x11-misc/i3lock
-
-# Set Cursor
-x11-apps/xsetroot
-
-# Terminal
-x11-terms/alacritty
-
-# Editors
+# 编辑器
 app-editors/neovim
 
-#browser
+# 浏览器
 www-client/google-chrome
 
-# fcitx
+# 中文输入法
 app-i18n/fcitx-meta
 
-# Misc
-app-misc/ranger
-x11-misc/picom
-x11-misc/sxhkd
-x11-misc/polybar
-x11-misc/rofi
-app-misc/neofetch
-media-gfx/feh
-
-# net-proxy
+# 终端代理
 net-misc/proxychains

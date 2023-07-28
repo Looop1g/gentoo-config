@@ -1,0 +1,22 @@
+# xorg 组件
+x11-base/xorg-server
+x11-base/xorg-drivers
+x11-apps/xinit
+
+# 若是使用 nvidia 独立显卡
+x11-drivers/nvidia-drivers
+
+# 窗口管理器组件
+x11-wm/bspwm
+x11-misc/sxhkd
+x11-misc/i3lock		# 用于锁屏
+x11-apps/xsetroot	# 用于设置默认光标
+x11-terms/alacritty	# 使用终端模拟器 alacritty
+x11-misc/picom
+x11-misc/polybar
+x11-misc/rofi
+app-misc/neofetch
+media-gfx/feh
+
+# 文件管理器
+app-misc/ranger
