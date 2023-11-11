@@ -1,1 +1,6 @@
-kde-plasma/plasma-meta -networkmanager -browser-integration -bluetooth grub
+kde-plasma/kwin lock
+kde-frameworks/kconfig qml
+kde-frameworks/kitemmodels qml
+kde-frameworks/prison qml
+kde-frameworks/sonnet qml
+media-libs/mesa wayland

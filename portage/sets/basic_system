@@ -1,0 +1,38 @@
+# Basic file system
+sys-fs/btrfs-progs	# btrfs
+sys-fs/ntfs3g		# nfts
+
+# System firmware
+sys-kernel/linux-firmware	
+sys-firmware/intel-microcode	# intel 
+
+# Overlay manager
+app-eselect/eselect-repository
+
+# Initramfs tool
+sys-kernel/genkernel
+
+# Network
+net-misc/networkmanager
+
+# Grub
+sys-boot/grub
+
+# User tool
+app-admin/doas
+
+# Editor applications
+app-editors/neovim
+x11-misc/xclip
+app-misc/joshuto
+
+# Bash tool
+app-shells/bash-completion
+
+# Sound system
+media-libs/libpulse
+media-video/wireplumber
+media-video/pipewire
+# The latest sound cards may require the following two packages
+#sys-firmware/sof-firmware
+#sys-firmware/alsa-firmware

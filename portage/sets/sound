@@ -1,4 +1,0 @@
-# 有一些新的机子只有pulseaudio 或者 alsa 的时候没有声卡
-# 则需要这两个包
-sys-firmware/sof-firmware
-sys-firmware/alsa-firmware

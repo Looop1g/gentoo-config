@@ -1,4 +1,0 @@
-kde-apps/okular -handbook
-
-# Okular 需要的依赖
-app-text/poppler nss
