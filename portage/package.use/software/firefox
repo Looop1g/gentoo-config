@@ -1,1 +1,2 @@
 media-libs/libvpx postproc
+www-client/firefox -X hwaccel

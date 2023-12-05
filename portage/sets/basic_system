@@ -23,8 +23,8 @@ app-admin/doas
 
 # Editor applications
 app-editors/neovim
-x11-misc/xclip
-app-misc/joshuto
+gui-apps/wl-clipboard
+app-misc/ranger
 
 # Bash tool
 app-shells/bash-completion

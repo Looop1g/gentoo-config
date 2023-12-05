@@ -1,4 +1,0 @@
->=net-im/tencent-qq-3.2.1_p17749::gentoo-zh ~amd64
->=x11-misc/snapd-xdg-open-20170401::gentoo-zh ~amd64
->=x11-misc/flatpak-xdg-utils-1.0.5::gentoo-zh ~amd64
->=media-libs/openslide-20230904::gentoo-zh ~amd64
