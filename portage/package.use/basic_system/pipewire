@@ -1,1 +1,2 @@
-media-video/pipewire sound-server
+media-video/pipewire sound-server ffmpeg extra gstreamer
+media-libs/libsdl2 gles2

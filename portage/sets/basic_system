@@ -36,3 +36,7 @@ media-video/pipewire
 # The latest sound cards may require the following two packages
 #sys-firmware/sof-firmware
 #sys-firmware/alsa-firmware
+
+
+net-misc/proxychains
+media-fonts/wqy-microhei
