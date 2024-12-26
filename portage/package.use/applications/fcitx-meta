@@ -1,0 +1,5 @@
+app-i18n/fcitx wayland
+x11-libs/libxkbcommon wayland
+app-i18n/fcitx-meta rime -chinese-addons wayland
+x11-libs/pango X
+app-i18n/fcitx-qt qt6

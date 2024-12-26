@@ -1,0 +1,1 @@
+>=sys-kernel/xanmod-rt-sources-6.6.50::src_prepare-overlay ~amd64

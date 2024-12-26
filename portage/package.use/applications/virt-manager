@@ -1,0 +1,8 @@
+app-emulation/virt-manager gui
+app-emulation/qemu gtk usbredir usb spice
+app-emulation/libvirt policykit
+
+net-misc/spice-gtk usbredir
+sys-apps/dbus X
+net-dns/dnsmasq script
+net-libs/gnutls tools pkcs11

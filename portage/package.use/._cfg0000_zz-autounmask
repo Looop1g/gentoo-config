@@ -1,5 +1,0 @@
-# package.use
-media-libs/libsdl2 gles2
-# required by media-video/obs-studio-9999::gentoo
-# required by obs-studio (argument)
->=media-video/ffmpeg-6.0-r9 opus

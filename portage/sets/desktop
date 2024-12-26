@@ -1,0 +1,27 @@
+# KDE apps
+kde-plasma/plasma-meta  # plasma desktop
+kde-apps/dolphin        # files manager
+kde-apps/dolphin-plugins-git
+kde-apps/gwenview       # image viewer
+kde-apps/ark            # file decompression utility
+kde-apps/ksystemlog     # system logs utility
+kde-apps/spectacle      # desktop screenshot
+
+# Fonts
+media-fonts/nerd-fonts
+
+# Virtual terminal
+x11-terms/kitty
+
+# Media
+media-video/mpv
+
+# Input method
+app-i18n/fcitx-meta
+
+# Browser
+www-client/firefox
+
+# Proxy tools
+net-proxy/v2rayA
+net-misc/proxychains

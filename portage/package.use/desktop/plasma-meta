@@ -1,0 +1,40 @@
+kde-plasma/plasma-meta gtk pulseaudio bluetooth
+media-libs/phonon qt6 minimal pulseaudio
+kde-plasma/kwin screencast
+#kde-plasma/plasma-workspace screencast
+#kde-plasma/plasma-desktop screencast
+
+app-crypt/qca qt6
+app-text/xmlto text
+dev-libs/glib dbus
+dev-libs/qcoro dbus
+dev-qt/qt5compat icu qml
+dev-qt/qtbase icu libproxy opengl cups wayland
+dev-qt/qtdeclarative opengl
+dev-qt/qtmultimedia opengl
+dev-qt/qtmultimedia qml
+dev-qt/qtquick3d opengl
+dev-qt/qttools opengl
+kde-frameworks/kconfig dbus
+kde-frameworks/kconfig qml
+kde-frameworks/kcoreaddons dbus
+kde-frameworks/kglobalaccel X
+kde-frameworks/kguiaddons wayland
+kde-frameworks/kidletime wayland
+kde-frameworks/kwindowsystem X
+kde-frameworks/kwindowsystem wayland
+kde-frameworks/prison qml
+kde-frameworks/sonnet qml
+kde-plasma/kwin lock
+media-libs/libcanberra alsa
+media-libs/libglvnd X
+media-libs/libpulse X
+media-libs/mesa wayland
+media-libs/phonon minimal qt6
+sys-apps/systemd policykit
+sys-auth/polkit-qt qt6
+sys-libs/zlib minizip
+x11-base/xwayland libei
+x11-libs/cairo X
+x11-libs/libdrm video_cards_radeon
+x11-libs/libxkbcommon X

@@ -1,0 +1,5 @@
+net-misc/remmina wayland rdp
+net-misc/freerdp X
+
+x11-libs/gtk+ wayland
+dev-libs/libdbusmenu gtk3

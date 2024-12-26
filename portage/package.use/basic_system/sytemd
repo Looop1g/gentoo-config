@@ -1,0 +1,5 @@
+sys-apps/systemd boot
+
+# 启动的服务
+#bluetooth.service
+#NetworkManager.service

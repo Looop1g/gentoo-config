@@ -1,9 +1,0 @@
-kde-plasma/kwin lock
-kde-frameworks/kconfig qml
-kde-frameworks/kitemmodels qml
-kde-frameworks/prison qml
-kde-frameworks/sonnet qml
-sys-apps/xdg-desktop-portal screencast
-media-libs/phonon -vlc
-net-print/cups-filters -pdf
-app-text/ghostscript-gpl -l10n_zh-CN

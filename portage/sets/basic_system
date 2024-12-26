@@ -1,30 +1,20 @@
 # Basic file system
-sys-fs/btrfs-progs	# btrfs
-sys-fs/ntfs3g		# nfts
+sys-fs/btrfs-progs      # btrfs
+sys-fs/ntfs3g           # nfts
 
-# System firmware
-sys-kernel/linux-firmware	
-sys-firmware/intel-microcode	# intel 
-
-# Overlay manager
-app-eselect/eselect-repository
-
-# Initramfs tool
-sys-kernel/genkernel
-
-# Network
-net-misc/networkmanager
-
-# Grub
-sys-boot/grub
-
-# User tool
-app-admin/doas
+# Basic system of gentoo
+sys-kernel/xanmod-rt-sources    # xanmod Linux kernel
+sys-kernel/linux-firmware       # Linux firmware
+#sys-firmware/intel-microcode   # intel firmware
+app-eselect/eselect-repository  # Gentoo overlay tool
+sys-kernel/genkernel            # Gentoo initramfs tool
+sys-kernel/installkernel	# kernel install tool
+net-misc/networkmanager         # Network tool
+app-admin/doas                  # User tool
 
 # Editor applications
 app-editors/neovim
 gui-apps/wl-clipboard
-app-misc/ranger
 
 # Bash tool
 app-shells/bash-completion
@@ -37,6 +27,5 @@ media-video/pipewire
 #sys-firmware/sof-firmware
 #sys-firmware/alsa-firmware
 
-
-net-misc/proxychains
-media-fonts/wqy-microhei
+# Version control software
+dev-vcs/git

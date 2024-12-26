@@ -1,4 +1,0 @@
-app-emulation/qemu usbredir spice virgl
-net-dns/dnsmasq script
-net-libs/gnutls pkcs11 tools
-net-misc/spice-gtk usbredir

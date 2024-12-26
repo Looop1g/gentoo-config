@@ -1,0 +1,4 @@
+net-im/telegram-desktop qt6 wayland -X
+media-video/ffmpeg opus vpx
+media-libs/tg_owt -X
+dev-qt/qtgui jpeg wayland egl
